@@ -102,6 +102,7 @@ Fast-forward
  first.txt  | 1 +
  second.txt | 1 +
  2 files changed, 2 insertions(+)
+ ````
  
  #### Edit the merge message and save as "First Merge from FF branch to main"
  
